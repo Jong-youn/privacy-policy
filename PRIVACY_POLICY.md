@@ -1,6 +1,6 @@
 # Privacy Policy for 4-7-8 Breathing
 
-_Last updated: [YYYY-MM-DD]_
+_Last updated: [2026-07-31]_
 
 This app ("4-7-8 Breathing", hereinafter "the App") is developed and operated by
 **[YOUR NAME OR STUDIO]** ("we", "us"). We take your privacy seriously and want
